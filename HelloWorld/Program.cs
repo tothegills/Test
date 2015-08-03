@@ -2,9 +2,9 @@
 
 namespace HelloWorld
 {
-    public class Program
+    class Program
     {
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
         }
